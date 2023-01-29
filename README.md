@@ -1,2 +1,2 @@
-# DL_Python
-Theano, Keras, Tensorflow, and other essential libraries' usage for Neural Networks
+# DL for Grap and others in Python
+Simple Jupyter cells for Theano, Keras, Tensorflow, Networkx, Numpy etc 
